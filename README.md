@@ -1,12 +1,12 @@
 <h1>Olá! Me chamo Vinícius Galbiati👋</h1>
 
-- 📖 Atualmente estou cursando o curso técnico de Desenvolvimento de Sistemas na ETEC NH.
+- 📖 Atualmente estou cursando o curso Análise e desenvolvimento de sistemas no IFSP.
 
 - 💡 Procuro obter cada vez mais conhecimento e experiência com desenvolvimento de softwares.
 
-- 💻 Possuo conhecimento em HTML, CSS, Javascript e Python.
+- 💻 Possuo conhecimento em HTML, CSS, Javascript, Express e Java.
 
-- 💭 Atualmente estou procurando me aprofundar em Java e Spring!
+- 💭 Atualmente estou procurando me aprofundar em SQL e no back-end.
 
 <h2>Entre em contato comigo!</h2>
 
