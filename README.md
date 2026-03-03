@@ -15,7 +15,4 @@
 
 
 <hr>
-<div>
-  <img height="30%" width="50%" src="https://github-readme-stats.vercel.app/api?username=vinigalbiati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="30%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigalbiati&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
